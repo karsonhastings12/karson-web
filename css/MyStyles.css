@@ -1,0 +1,44 @@
+ /* Karson Hastings 06/09/22 */
+
+a:hover {text-decoration: underline;}
+
+a:visited {color: #6f2f2f;}
+
+li { 
+    font-weight: normal;
+    font-style: italic;
+}
+
+.bold { font-weight: bold;}
+.center {text-align: center;}
+.left {text-align: left;}
+
+.resumeheadings {
+    font-weight: bold;
+    font-style: normal;
+}
+
+.box1 {
+    border-width: 2px;
+    border-style: solid;
+}
+
+.box2 { 
+    padding-left: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.box3 {
+    margin-top: 15px;
+}
+
+.box5 {
+    border-width: 5px;
+    border-style: solid;
+    border-color: black
+}
+
+.aboutme {margin-top: 60px;}
+
+.marginright {margin-right: 20px;}

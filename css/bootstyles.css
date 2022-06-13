@@ -1,0 +1,68 @@
+a {font-style: normal;
+color: rgb(224, 224, 224);}
+
+a:visited {color: rgb(228, 228, 228);}
+
+.captions{
+    font-style: italic;
+    text-align: center;}
+
+body {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(196, 223, 255);}
+
+.textcolor {color: whitesmoke;}
+.captioncolor {color: rgb(215, 215, 215);}
+
+.common {
+    background-color: rgb(50, 50, 50);
+    position: absolute;}
+
+.pa {text-align: center;}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    text-align: right;
+    padding-right: 5px;
+    padding-top: 2px;
+    color: whitesmoke;}
+
+.left {top: 112px;
+        left: 5px;
+        width: 335px;
+        bottom: 43px;
+        border: 2px rgb(0, 0, 0);
+        padding-left: 5px;
+        padding-top: 2px;
+        position: absolute;}
+
+.leftbelow { top: 680px;
+            width: 335px;
+            bottom: 1px;
+            position: absolute;}
+
+.main {top: 112px;
+        left: 350px;
+        right: 15px;
+        height: 3780px;
+        background-color: rgb(50, 50, 50);
+        position: absolute;}
+
+.footer {bottom: 1px;
+        left: 1px;
+        right: 1px;
+        height: 30px;
+        position: fixed;
+        background-color: black;
+        padding-top: 6px;}
+
+.box1 {
+    border-width: 2px;
+    border-top: solid;
+    border-bottom: solid;
+    padding-top: 3px;
+    padding-bottom: 3px;}
+
+.list { padding: 20px;}
